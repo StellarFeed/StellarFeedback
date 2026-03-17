@@ -6,7 +6,7 @@ Product feedback, verified on-chain. Real reviews from real users. No bots, no f
 
 Every review is immutable, earns the reviewer reputation points, and mints a unique NFT as proof of contribution.
 
-Built as an open-source frontend companion to the [StellarFeedback Contract](https://github.com/your-org/stellarfeedback-contract) repo.
+Built as an open-source frontend companion to the [StellarFeedback Contract](https://github.com/StellarFeed/StellarFeedbackContract) repo.
 
 
 ## Features
